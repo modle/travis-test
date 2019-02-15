@@ -23,15 +23,17 @@ relations = [
     "negative"
 ]
 
+MAX_ICONS = 3
+MIN_ICONS = 1
+
 def main(num_icons):
     chosen_icons = []
-    max_icons = 3
 
-    if num_icons < 1:
-        num_icons = 1
+    if num_icons < MIN_ICONS:
+        num_icons = MIN_ICONS
 
-    if num_icons > max_icons:
-        num_icons = 3
+    if num_icons > MAX_ICONS:
+        num_icons = MAX_ICONS
 
     while len(chosen_icons) < num_icons:
         icon_index = random.randint(0, len(icons)-1)
