@@ -1,7 +1,7 @@
 import random
 import sys
 
-icons = [
+icon_data = [
     "archmage",
     "crusader",
     "diabolist",
@@ -27,6 +27,7 @@ MAX_ICONS = 3
 MIN_ICONS = 1
 
 def main(num_icons):
+    icons = icon_data.copy()
     chosen_icons = []
 
     if num_icons < MIN_ICONS:
@@ -48,4 +49,3 @@ def main(num_icons):
 if __name__ == "__main__":
     result = main(int(sys.argv[1]))
     print(result)
-
