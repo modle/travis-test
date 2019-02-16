@@ -16,6 +16,7 @@ def make_app():
     app = Flask(__name__)
     CORS(app)
 
+    @app.route('/')
     @app.route('/generate')
     def status():
         return '{}\n\nicons: {}'.format(race_class.main(), icon.main(3))
