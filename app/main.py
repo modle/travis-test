@@ -17,7 +17,7 @@ def make_app():
     @app.route('/generate')
     def status():
         character = race_class.main()
-        character["icons"] = icon.main(3)
+        character["icons"] = icon.main()
         character["background(s)"] = background.main()
         return json.dumps(character)
 

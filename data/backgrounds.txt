@@ -1,0 +1,257 @@
+clan champion
+caravan outrider
+fur trapper
+mountain tribeswoman
+wasteland survivalist
+gladiator
+wandering minstrel
+cathedral musician
+court jester
+mercenary
+tavern owner
+failed hedge wizard
+diplomat
+spy
+royal taster
+caravan guide
+smuggler
+battle skald
+blossoming witch
+jester
+fireworks exhibitionist
+no-longer-frustrated librarian
+stirge wrangler
+living spell
+living dungeon denizen
+wandering musician
+hero from another world
+healer
+archivist
+military chaplain
+temple guard
+bartender
+reformed thief
+dwarven hierophant
+initiate
+bishop
+historical re-enactor
+sergeant of the city guard
+street gang survivor
+ex-gladiator
+wilderness scout
+cobbler
+bouncer
+exotic dancer
+wargame veteran
+squad leader
+reformed drunk
+officer of the guard
+orc-tribe hunter/gatherer
+avalanche prophet
+cult zealot
+river guide
+tribe healer
+failed shaman
+wild temple priest
+mystic waterfall guardian
+raised by wolverines
+swordmaster
+mercenary captain
+sea raider
+shieldwall spearman
+explorer
+bouncer
+thug
+city guardsman
+former gladiator
+former orc captive
+bankrupt nobleman
+duelist
+goblin-hunter
+holy acolyte
+mountain sanctuary guardsman
+traveling circus acrobat
+river guide
+spider-cult assassin
+tunnel vermin exterminator
+bodyguard
+farmer
+hallucinogenic mushroom farmer
+wild mountain ginseng harvester
+traveling tournament organizer
+civil rights organizer
+failed village priest
+archeologist
+swamp baron
+living dungeon escapee
+former necromancer acolyte
+death giant servitor
+former mummy
+reformed outlaw
+resurrected Imperial hero
+burnt-out wizard
+librarian of the forbidden
+wandering mystic
+a holy one whose secret knowledge comes from the heavens
+touched by the abyss
+city guardsman
+combat medic
+bodyguard
+outlaw hunter
+inquisitor
+tracker
+bounty hunter
+beast slayer
+woodsy assassin
+orc slayer
+wanderer
+street thug
+cat burglar
+diplomat
+professional gambler
+courtier
+jewel thief
+acrobat
+con artist
+bartender
+spy master
+pirate
+dandy
+rat catcher
+tribal shaman
+pirate captain
+spell-arena gladiator
+failed wizard
+sahuagin hunter
+magical prodigy
+spell thief
+hedge wizard
+transformed familiar
+ship's wizard
+royal poisoner
+adventurer
+veteran soldier
+academy trainee
+academy dropout
+consort to some ruler
+grizzled field medic
+cat burgler
+street urchin
+wizard's apprentice
+gravedigger
+hermitic woodsman
+journeyman smith
+master smith
+apprentice tailor
+journeyman tailor
+master tailor
+apprentice sommelier
+journeyman sommelier
+master sommelier
+apprentice brewer
+journeyman brewer
+master brewer
+innkeep
+ageless carvaneer
+amateur cartographer
+assassin of assassins
+battlefield scavenger
+beast whisperer
+beggar queen's scion
+bone-fortifying technique
+born at sea
+vagrant
+itinerant
+calculating liar
+champion stitcherman
+child of exiled vizier
+city vigilant
+collector of recipes
+colossal beast herder
+covert infiltrator
+dedicated scribbler
+deep diver
+disappointed ancestral advisor
+disavowed squire
+disillusioned officer
+dungeon poacher
+emergency sawbones
+escaped the purges
+experienced rabble-rouser
+expert gamesman
+fairy exterminator
+fallen exorcist
+fashion paragon
+fearsome debater
+finder for hire
+foreign interpreter
+foremost etiquette expert
+former undead
+freehand tower cleaner
+genealogist
+geomatic architect
+ghost breaker
+god game gladiator
+godsmith apprentice
+heretic musician
+holy wrestler
+hunger artist
+indentured to elementals
+infamous trapsmith
+ink-stained bookworm
+jailer of the infamous
+keeper of lost tongues
+life in the rigging
+long-haul navigator
+longtime imposter
+magical fisherman
+master of marches
+mercenary wisdom
+minister of small things
+mistress of revels
+mudlark
+network of conspirators
+nomadic herdmaster
+notorious executioner
+oathbound courier
+only a few survived being monster bait
+outcast by wicked step-parent
+overseer of the lists
+pearl diver
+plague tender
+poison gardener
+practical sellsword
+puzzle master
+raised by goblins
+recitationist
+recovering becursed
+reformed cultist
+royal statistician
+rubble runner
+ruthless observer
+savant of patterns
+scales like a mountain goat
+sentinel of the books
+seven evil masters
+shipwreck survivor
+siege survivor
+skyship raider
+slave pit escapee
+smiling fixer
+soul vessel
+spirit speaker
+stalwart guide
+stoic bearer
+syndicate lookout
+taught on the road
+tempered by denial
+time in the circus
+torturer for the god of healing
+tunnel rat
+veteran pillager
+visionary painter
+wandering teacher
+ward of the thieves guild
+warden of the dance
+witch farm escapee
+years on the wheel of woe

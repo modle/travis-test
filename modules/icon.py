@@ -1,40 +1,20 @@
 import random
 import sys
 
-icon_data = [
-    "archmage",
-    "crusader",
-    "diabolist",
-    "dwarf king",
-    "elf queen",
-    "emperor",
-    "great gold wyrm",
-    "high druid",
-    "lich king",
-    "orc lord",
-    "priestess",
-    "prince of shadows",
-    "three"
-]
+fp = open('./data/icons.txt')
+icon_data = fp.read().split("\n")
+fp.close()
 
-relations = [
-    "positive",
-    "conflicted",
-    "negative"
-]
+relations = ["positive", "conflicted", "negative"]
 
 MAX_ICONS = 3
 MIN_ICONS = 1
 
-def main(num_icons):
+def main():
+    # because we want to delete entries to avoid duplicates
+    num_icons = random.randint(MIN_ICONS, MAX_ICONS)
     icons = icon_data.copy()
     chosen_icons = []
-
-    if num_icons < MIN_ICONS:
-        num_icons = MIN_ICONS
-
-    if num_icons > MAX_ICONS:
-        num_icons = MAX_ICONS
 
     while len(chosen_icons) < num_icons:
         icon_index = random.randint(0, len(icons)-1)
@@ -47,5 +27,5 @@ def main(num_icons):
     return chosen_icons
 
 if __name__ == "__main__":
-    result = main(int(sys.argv[1]))
+    result = main()
     print(result)
