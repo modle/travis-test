@@ -2,10 +2,6 @@ from flask_cors import CORS
 from flask import Flask, jsonify, request
 
 import json
-import os
-import pika
-import sys
-import time
 
 from modules import icon
 from modules import race_class
@@ -21,7 +17,7 @@ def make_app():
     def status():
         character = race_class.main()
         character["icons"] = icon.main(3)
-        return str(character)
+        return json.dumps(character)
 
     return app
 
