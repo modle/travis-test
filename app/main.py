@@ -5,6 +5,7 @@ import json
 
 from modules import icon
 from modules import race_class
+from modules import background
 
 EXCHANGE = 'commands'
 
@@ -17,6 +18,7 @@ def make_app():
     def status():
         character = race_class.main()
         character["icons"] = icon.main(3)
+        character["background(s)"] = background.main()
         return json.dumps(character)
 
     return app
