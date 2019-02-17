@@ -19,7 +19,9 @@ def make_app():
     @app.route('/')
     @app.route('/generate')
     def status():
-        return '{}\n\nicons: {}'.format(race_class.main(), icon.main(3))
+        character = race_class.main()
+        character["icons"] = icon.main(3)
+        return str(character)
 
     return app
 

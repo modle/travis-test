@@ -39,7 +39,7 @@ def main(num_icons):
     while len(chosen_icons) < num_icons:
         icon_index = random.randint(0, len(icons)-1)
         relations_index = random.randint(0, len(relations)-1)
-        icon = {icons[icon_index]: {"relationship": relations[relations_index]}}
+        icon = {icons[icon_index]: relations[relations_index]}
         # avoids duplicates
         del icons[icon_index]
         chosen_icons.append(icon)
