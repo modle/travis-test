@@ -22,7 +22,6 @@ def main():
         "abilities": abilities
     }
 
-
     return result
 
 
